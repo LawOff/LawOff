@@ -63,7 +63,9 @@ https://lawyt.sellix.io)
 
 <p align="center">
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=eLpwDaG6TGA"><img width="140px" src="https://i.ytimg.com/vi/eLpwDaG6TGA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ogifU7weUjA"><img width="140px" src="https://i.ytimg.com/vi/ogifU7weUjA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ogifU7weUjA">How to Clone any Discord server? &lpar;Discord Selfbot&rpar;</a><br/>Dec 11, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=eLpwDaG6TGA"><img width="140px" src="https://i.ytimg.com/vi/eLpwDaG6TGA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eLpwDaG6TGA">How to Create Amazing Artwork with AI</a><br/>Dec 7, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=tfA5prnkug4"><img width="140px" src="https://i.ytimg.com/vi/tfA5prnkug4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tfA5prnkug4">Add a Mail System on your Discord Server</a><br/>Dec 4, 2021</td></tr></table>
@@ -71,8 +73,6 @@ https://lawyt.sellix.io)
 <td><a href="https://www.youtube.com/watch?v=FOzjxKYpoDY">How to get YouTube DISLIKES Back</a><br/>Nov 29, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=aYgmZI11cdw"><img width="140px" src="https://i.ytimg.com/vi/aYgmZI11cdw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aYgmZI11cdw">Most Useful Websites for Students &lpar;Tools/Hacks&rpar;</a><br/>Nov 20, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=7FuNoZiqQY8"><img width="140px" src="https://i.ytimg.com/vi/7FuNoZiqQY8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7FuNoZiqQY8">The Best Discord Music Bot &lpar;24/7&rpar;</a><br/>Nov 17, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
 </p>
