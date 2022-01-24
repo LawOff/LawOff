@@ -63,7 +63,9 @@ https://lawyt.sellix.io)
 
 <p align="center">
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=DZqkJzBa46I"><img width="140px" src="https://i.ytimg.com/vi/DZqkJzBa46I/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Lr2wfnLSq_4"><img width="140px" src="https://i.ytimg.com/vi/Lr2wfnLSq_4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Lr2wfnLSq_4">Pretend to have an NFT Profile Picture on Twitter &lpar;FREE&rpar;</a><br/>Jan 24, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=DZqkJzBa46I"><img width="140px" src="https://i.ytimg.com/vi/DZqkJzBa46I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DZqkJzBa46I">FREE Online Linux VPS/RDP &lpar;Kali, Parrot, Ubuntu, Debian...&rpar;</a><br/>Jan 23, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=01ZcJB5x2X0"><img width="140px" src="https://i.ytimg.com/vi/01ZcJB5x2X0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=01ZcJB5x2X0">Isolate Voice and Instrumentals from any Song &lpar;AI Based&rpar;</a><br/>Dec 18, 2021</td></tr></table>
@@ -71,8 +73,6 @@ https://lawyt.sellix.io)
 <td><a href="https://www.youtube.com/watch?v=ogifU7weUjA">How to Clone any Discord server? &lpar;Discord Selfbot&rpar;</a><br/>Dec 11, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=eLpwDaG6TGA"><img width="140px" src="https://i.ytimg.com/vi/eLpwDaG6TGA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eLpwDaG6TGA">How to Create Amazing Artwork with AI</a><br/>Dec 7, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=tfA5prnkug4"><img width="140px" src="https://i.ytimg.com/vi/tfA5prnkug4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tfA5prnkug4">Add a Mail System on your Discord Server</a><br/>Dec 4, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
 </p>
