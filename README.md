@@ -63,7 +63,9 @@ https://lawyt.sellix.io)
 
 <p align="center">
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2swAFm0b5NQ"><img width="140px" src="https://i.ytimg.com/vi/2swAFm0b5NQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=KVf6_NjlNrE"><img width="140px" src="https://i.ytimg.com/vi/KVf6_NjlNrE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KVf6_NjlNrE">[2022] TOP 10 BEST BetterDiscord PLUGINS</a><br/>Jan 28, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=2swAFm0b5NQ"><img width="140px" src="https://i.ytimg.com/vi/2swAFm0b5NQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2swAFm0b5NQ">How to Turn any Image into Pixel art | FREE</a><br/>Jan 27, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QNymkpDSQVQ"><img width="140px" src="https://i.ytimg.com/vi/QNymkpDSQVQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QNymkpDSQVQ">Using AI to Create effective texts in a few words</a><br/>Jan 26, 2022</td></tr></table>
@@ -71,8 +73,6 @@ https://lawyt.sellix.io)
 <td><a href="https://www.youtube.com/watch?v=DGnhhtJGzfY">Use this VPN anywhere! &lpar;FREE - Secured &amp; Fast&rpar;</a><br/>Jan 25, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Lr2wfnLSq_4"><img width="140px" src="https://i.ytimg.com/vi/Lr2wfnLSq_4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Lr2wfnLSq_4">Pretend to have an NFT Profile Picture on Twitter &lpar;FREE&rpar;</a><br/>Jan 24, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=DZqkJzBa46I"><img width="140px" src="https://i.ytimg.com/vi/DZqkJzBa46I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=DZqkJzBa46I">FREE Online Linux VPS/RDP &lpar;Kali, Parrot, Ubuntu, Debian...&rpar;</a><br/>Jan 23, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 </p>
