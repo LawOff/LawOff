@@ -63,7 +63,9 @@ https://lawyt.sellix.io)
 
 <p align="center">
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Xmw5UGn1Ulw"><img width="140px" src="https://i.ytimg.com/vi/Xmw5UGn1Ulw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=KV430KacPFk"><img width="140px" src="https://i.ytimg.com/vi/KV430KacPFk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KV430KacPFk">Download ALL Emojis from any Discord server</a><br/>Feb 1, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Xmw5UGn1Ulw"><img width="140px" src="https://i.ytimg.com/vi/Xmw5UGn1Ulw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Xmw5UGn1Ulw">[2022] TOP 5 BEST BetterDiscord THEMES</a><br/>Jan 31, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=KVf6_NjlNrE"><img width="140px" src="https://i.ytimg.com/vi/KVf6_NjlNrE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KVf6_NjlNrE">[2022] TOP 10 BEST BetterDiscord PLUGINS</a><br/>Jan 28, 2022</td></tr></table>
@@ -71,8 +73,6 @@ https://lawyt.sellix.io)
 <td><a href="https://www.youtube.com/watch?v=2swAFm0b5NQ">How to Turn any Image into Pixel art | FREE</a><br/>Jan 27, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QNymkpDSQVQ"><img width="140px" src="https://i.ytimg.com/vi/QNymkpDSQVQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QNymkpDSQVQ">Using AI to Create effective texts in a few words</a><br/>Jan 26, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=DGnhhtJGzfY"><img width="140px" src="https://i.ytimg.com/vi/DGnhhtJGzfY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=DGnhhtJGzfY">Use this VPN anywhere! &lpar;FREE - Secured &amp; Fast&rpar;</a><br/>Jan 25, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 </p>
