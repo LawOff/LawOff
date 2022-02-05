@@ -63,7 +63,9 @@ https://lawyt.sellix.io)
 
 <p align="center">
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=I80Arocry6M"><img width="140px" src="https://i.ytimg.com/vi/I80Arocry6M/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=gYhR_MoldI4"><img width="140px" src="https://i.ytimg.com/vi/gYhR_MoldI4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=gYhR_MoldI4">How to Create Custom Widgets on Windows 10/11</a><br/>Feb 5, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=I80Arocry6M"><img width="140px" src="https://i.ytimg.com/vi/I80Arocry6M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=I80Arocry6M">How to Have a Modern File Explorer on Windows 10/11</a><br/>Feb 3, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=n4kE4tsvtY8"><img width="140px" src="https://i.ytimg.com/vi/n4kE4tsvtY8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=n4kE4tsvtY8">Use AI to Remix your Music &lpar;Trap, Dubstep, Electro...&rpar;</a><br/>Feb 2, 2022</td></tr></table>
@@ -71,8 +73,6 @@ https://lawyt.sellix.io)
 <td><a href="https://www.youtube.com/watch?v=KV430KacPFk">Download ALL Emojis from any Discord server</a><br/>Feb 1, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Xmw5UGn1Ulw"><img width="140px" src="https://i.ytimg.com/vi/Xmw5UGn1Ulw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Xmw5UGn1Ulw">[2022] TOP 5 BEST BetterDiscord THEMES</a><br/>Jan 31, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=KVf6_NjlNrE"><img width="140px" src="https://i.ytimg.com/vi/KVf6_NjlNrE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KVf6_NjlNrE">[2022] TOP 10 BEST BetterDiscord PLUGINS</a><br/>Jan 28, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 </p>
