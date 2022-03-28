@@ -64,7 +64,7 @@ https://lawyt.sellix.io)
 <p align="center">
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ptPbZAdrC_c"><img width="140px" src="https://i.ytimg.com/vi/ptPbZAdrC_c/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ptPbZAdrC_c">How to Mod Spotify in 2022 &lpar;Extensions, Themes, Snippets&rpar;</a><br/>Mar 26, 2022</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=ptPbZAdrC_c">How to Custom Spotify in 2022 &lpar;Themes, Extensions, Snippets&rpar;</a><br/>Mar 26, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=nfuQSZ3hqvA"><img width="140px" src="https://i.ytimg.com/vi/nfuQSZ3hqvA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nfuQSZ3hqvA">TOP 5 Modern &amp; Aesthetic CURSORS for WINDOWS</a><br/>Mar 15, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=y0iPU4OMvNI"><img width="140px" src="https://i.ytimg.com/vi/y0iPU4OMvNI/mqdefault.jpg"></a></td>
