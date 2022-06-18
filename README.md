@@ -63,7 +63,9 @@ https://lawyt.sellix.io)
 
 <p align="center">
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=P8vtW2iDD5U"><img width="140px" src="https://i.ytimg.com/vi/P8vtW2iDD5U/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yUj94z1VsKc"><img width="140px" src="https://i.ytimg.com/vi/yUj94z1VsKc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yUj94z1VsKc">Top 10 Custom CSS Scripts for DISCORD &lpar;2022&rpar;</a><br/>Jun 18, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=P8vtW2iDD5U"><img width="140px" src="https://i.ytimg.com/vi/P8vtW2iDD5U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=P8vtW2iDD5U">The BEST Download Manager &lpar;FREE | 2022&rpar;</a><br/>Jun 10, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=lpDSOG9bDyE"><img width="140px" src="https://i.ytimg.com/vi/lpDSOG9bDyE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lpDSOG9bDyE">How to SEND Colored Texts in Discord</a><br/>Jun 8, 2022</td></tr></table>
@@ -71,8 +73,6 @@ https://lawyt.sellix.io)
 <td><a href="https://www.youtube.com/watch?v=3YUllOeuEC4">The BEST File Viewer &lpar;Open any File using it!&rpar; WINDOWS 10/11</a><br/>May 27, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=DOAoFaqa9-Q"><img width="140px" src="https://i.ytimg.com/vi/DOAoFaqa9-Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DOAoFaqa9-Q">BEST Extensions to OPTIMIZE Chrome &lpar;2022&rpar;</a><br/>May 20, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_Fj9QK7wCOc"><img width="140px" src="https://i.ytimg.com/vi/_Fj9QK7wCOc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_Fj9QK7wCOc">TOP 5 Animated CURSORS for WINDOWS 10/11</a><br/>May 9, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 </p>
