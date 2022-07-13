@@ -63,7 +63,9 @@ https://lawyt.sellix.io)
 
 <p align="center">
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xqMSQx0swac"><img width="140px" src="https://i.ytimg.com/vi/xqMSQx0swac/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=P4Co1QrPOiI"><img width="140px" src="https://i.ytimg.com/vi/P4Co1QrPOiI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=P4Co1QrPOiI">How to OPTIMIZE Your PC in 1 Click</a><br/>Jul 13, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=xqMSQx0swac"><img width="140px" src="https://i.ytimg.com/vi/xqMSQx0swac/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xqMSQx0swac">How to SHARE Files Securly via TOR &lpar;2022&rpar;</a><br/>Jul 9, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=XBQT6iQkorQ"><img width="140px" src="https://i.ytimg.com/vi/XBQT6iQkorQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XBQT6iQkorQ">The BEST Search Bar for Windows 10/11</a><br/>Jul 4, 2022</td></tr></table>
@@ -71,8 +73,6 @@ https://lawyt.sellix.io)
 <td><a href="https://www.youtube.com/watch?v=LIpbre26orc">The Best Alternative to Premiere Pro in 2022</a><br/>Jul 1, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=yUj94z1VsKc"><img width="140px" src="https://i.ytimg.com/vi/yUj94z1VsKc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yUj94z1VsKc">Top 10 Custom CSS Scripts for DISCORD</a><br/>Jun 18, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=P8vtW2iDD5U"><img width="140px" src="https://i.ytimg.com/vi/P8vtW2iDD5U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=P8vtW2iDD5U">The BEST Download Manager &lpar;FREE | 2022&rpar;</a><br/>Jun 10, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 </p>
