@@ -72,7 +72,7 @@ https://lawyt.sellix.io)
 <table><tr><td><a href="https://www.youtube.com/watch?v=xqMSQx0swac"><img width="140px" src="https://i.ytimg.com/vi/xqMSQx0swac/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xqMSQx0swac">How to SHARE Files Securly via TOR &lpar;2022&rpar;</a><br/>Jul 9, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=XBQT6iQkorQ"><img width="140px" src="https://i.ytimg.com/vi/XBQT6iQkorQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=XBQT6iQkorQ">The BEST Search Bar for Windows 10/11</a><br/>Jul 4, 2022</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=XBQT6iQkorQ">The BEST Search Bar for Windows 10/11 &lpar;2022 | FREE&rpar;</a><br/>Jul 4, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 </p>
