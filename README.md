@@ -63,7 +63,9 @@ https://lawyt.sellix.io)
 
 <p align="center">
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=aPgVmZ7B8Rs"><img width="140px" src="https://i.ytimg.com/vi/aPgVmZ7B8Rs/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pvLFndCrvDE"><img width="140px" src="https://i.ytimg.com/vi/pvLFndCrvDE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=pvLFndCrvDE">How to use AI to Create Amazing Art #shorts</a><br/>Jul 27, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=aPgVmZ7B8Rs"><img width="140px" src="https://i.ytimg.com/vi/aPgVmZ7B8Rs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aPgVmZ7B8Rs">How to LOCK your Discord &lpar;Using Passcode&rpar;</a><br/>Jul 23, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cjrB4A06doM"><img width="140px" src="https://i.ytimg.com/vi/cjrB4A06doM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cjrB4A06doM">TOP 10 CLEAN Live Wallpapers for WINDOWS &lpar;FREE&rpar;</a><br/>Jul 19, 2022</td></tr></table>
@@ -71,8 +73,6 @@ https://lawyt.sellix.io)
 <td><a href="https://www.youtube.com/watch?v=P4Co1QrPOiI">How to OPTIMIZE Your PC in One Click &lpar;2022&rpar;</a><br/>Jul 13, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xqMSQx0swac"><img width="140px" src="https://i.ytimg.com/vi/xqMSQx0swac/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xqMSQx0swac">How to SHARE Files Securly via TOR &lpar;2022&rpar;</a><br/>Jul 9, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=XBQT6iQkorQ"><img width="140px" src="https://i.ytimg.com/vi/XBQT6iQkorQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=XBQT6iQkorQ">The BEST Search Bar for Windows 10/11 &lpar;2022 | FREE&rpar;</a><br/>Jul 4, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 </p>
