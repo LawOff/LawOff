@@ -63,7 +63,9 @@ https://lawyt.sellix.io)
 
 <p align="center">
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZGyf8-VYzdc"><img width="140px" src="https://i.ytimg.com/vi/ZGyf8-VYzdc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-bo-Z01os-s"><img width="140px" src="https://i.ytimg.com/vi/-bo-Z01os-s/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-bo-Z01os-s">How to have a MODERN YouTube Interface &lpar;2022&rpar;</a><br/>Aug 2, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ZGyf8-VYzdc"><img width="140px" src="https://i.ytimg.com/vi/ZGyf8-VYzdc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZGyf8-VYzdc">How to Get a CUSTOM Chrome HomePage &lpar;2022&rpar;</a><br/>Jul 31, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=pvLFndCrvDE"><img width="140px" src="https://i.ytimg.com/vi/pvLFndCrvDE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pvLFndCrvDE">How to use AI to Create Amazing Art #shorts</a><br/>Jul 27, 2022</td></tr></table>
@@ -71,8 +73,6 @@ https://lawyt.sellix.io)
 <td><a href="https://www.youtube.com/watch?v=aPgVmZ7B8Rs">How to LOCK your Discord &lpar;Using Passcode&rpar;</a><br/>Jul 23, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cjrB4A06doM"><img width="140px" src="https://i.ytimg.com/vi/cjrB4A06doM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cjrB4A06doM">TOP 10 CLEAN Live Wallpapers for WINDOWS &lpar;FREE&rpar;</a><br/>Jul 19, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=P4Co1QrPOiI"><img width="140px" src="https://i.ytimg.com/vi/P4Co1QrPOiI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=P4Co1QrPOiI">How to OPTIMIZE Your PC in One Click &lpar;2022&rpar;</a><br/>Jul 13, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 </p>
