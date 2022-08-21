@@ -63,7 +63,9 @@ https://lawyt.sellix.io)
 
 <p align="center">
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VZQSBsnobJA"><img width="140px" src="https://i.ytimg.com/vi/VZQSBsnobJA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yExK6CvwTGg"><img width="140px" src="https://i.ytimg.com/vi/yExK6CvwTGg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yExK6CvwTGg">How to Have a Modern DISCORD Interface &lpar;Fluent Theme&rpar;</a><br/>Aug 21, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=VZQSBsnobJA"><img width="140px" src="https://i.ytimg.com/vi/VZQSBsnobJA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VZQSBsnobJA">How to EASILY Organize your Discord DM&#39;s</a><br/>Aug 16, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ByNY60Nty4A"><img width="140px" src="https://i.ytimg.com/vi/ByNY60Nty4A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ByNY60Nty4A">How to Check ALL your Discord STATS &lpar;2022&rpar;</a><br/>Aug 8, 2022</td></tr></table>
@@ -71,8 +73,6 @@ https://lawyt.sellix.io)
 <td><a href="https://www.youtube.com/watch?v=-bo-Z01os-s">How to have a FLUENT YouTube Interface &lpar;2022&rpar;</a><br/>Aug 2, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZGyf8-VYzdc"><img width="140px" src="https://i.ytimg.com/vi/ZGyf8-VYzdc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZGyf8-VYzdc">How to Get a CUSTOM Chrome HomePage &lpar;2022&rpar;</a><br/>Jul 31, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=pvLFndCrvDE"><img width="140px" src="https://i.ytimg.com/vi/pvLFndCrvDE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pvLFndCrvDE">How to use AI to Create Amazing Art #shorts</a><br/>Jul 27, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 </p>
