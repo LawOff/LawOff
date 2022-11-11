@@ -62,7 +62,7 @@ https://lawyt.sellix.io)
 <p align="center">
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yExK6CvwTGg"><img width="140px" src="https://i.ytimg.com/vi/yExK6CvwTGg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=yExK6CvwTGg">How to Have a Modern DISCORD Interface &lpar;Fluent Theme&rpar;</a><br/>Aug 21, 2022</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=yExK6CvwTGg">Make Your Discord LOOK MODERN- Fluent Theme</a><br/>Aug 21, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=VZQSBsnobJA"><img width="140px" src="https://i.ytimg.com/vi/VZQSBsnobJA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VZQSBsnobJA">How to EASILY Organize your Discord DM&#39;s</a><br/>Aug 16, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ByNY60Nty4A"><img width="140px" src="https://i.ytimg.com/vi/ByNY60Nty4A/mqdefault.jpg"></a></td>
