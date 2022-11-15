@@ -1,5 +1,5 @@
 ![banner](https://i.imgur.com/jgNwkmt.jpg)
-<h1 align ="center">Hi,<img src ="https://drive.google.com/uc?export=view&id=1kOj3ThGP_Hu_-eg_8EWp9iuLymulknvS"width = 35> I'm LAW - Tutorials</h1>
+<h1 align ="center">Hi, I'm LAW - Tutorials</h1>
 <h3 align = "center"><strong>Silent Teacher on YouTube👩‍💻 </h3>
   
 <p align="center">
