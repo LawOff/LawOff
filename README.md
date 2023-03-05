@@ -61,7 +61,9 @@ https://lawyt.sellix.io)
 
 <p align="center">
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qrSWWU9Ddjo"><img width="140px" src="https://i.ytimg.com/vi/qrSWWU9Ddjo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=bGu54aX8jwU"><img width="140px" src="https://i.ytimg.com/vi/bGu54aX8jwU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=bGu54aX8jwU">[2023] How to Clone Any Discord Server? &lpar;UPDATED&rpar;</a><br/>Mar 5, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=qrSWWU9Ddjo"><img width="140px" src="https://i.ytimg.com/vi/qrSWWU9Ddjo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qrSWWU9Ddjo">Make your SPOTIFY LOOK MODERN - Fluent Theme</a><br/>Feb 25, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QGo---Fn9wc"><img width="140px" src="https://i.ytimg.com/vi/QGo---Fn9wc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QGo---Fn9wc">TOP 5 ChatGPT Extensions &lpar;2023&rpar;</a><br/>Feb 18, 2023</td></tr></table>
@@ -69,8 +71,6 @@ https://lawyt.sellix.io)
 <td><a href="https://www.youtube.com/watch?v=zQK1onDH4NM">Manage ALL Your APPs in A SINGLE ONE</a><br/>Feb 11, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=yExK6CvwTGg"><img width="140px" src="https://i.ytimg.com/vi/yExK6CvwTGg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yExK6CvwTGg">Make Your Discord LOOK MODERN- Fluent Theme</a><br/>Aug 21, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=VZQSBsnobJA"><img width="140px" src="https://i.ytimg.com/vi/VZQSBsnobJA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=VZQSBsnobJA">How to EASILY Organize your Discord DM&#39;s</a><br/>Aug 16, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 </p>
