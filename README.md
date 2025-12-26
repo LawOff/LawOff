@@ -1,19 +1,28 @@
-## 📊 My Github Stats
+## 📊 GitHub Profile Stats
 
 <p align="center">
-  <br/>
-  <a href="https://github.com/LawOff/github-readme-stats">
-    <img alt="LawOff's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LawOff&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" height="192px"/>
+  <a href="https://github-readme-stats.vercel.app/api?username=LawOff&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=LawOff&show_icons=true&include_all_commits=true&theme=material-palenight"/>
   </a>
-  <a href="https://github.com/LawOff/github-readme-stats">
-    <img alt="LawOff's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LawOff&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF" height="192px"/>
-  </a>
-  <br/>
 </p>
+
+<br/>
+
+## 💻 Most used languages
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LawOff&langs_count=10&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LawOff&langs_count=10&layout=compact&theme=material-palenight"/>
+  </a>
+</p>
+
+<br/>
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img alt="LawOff's streak" src="https://github-readme-streak-stats.demolab.com/?user=LawOff&theme=react&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LawOff"/>
+  </a>
 </p>
 
 ### 📈 Contribution Graph
