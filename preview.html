@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Preview README</title>
+    <style>
+        body {
+            background-color: #0d1117;
+            color: #c9d1d9;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .container {
+            background-color: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            padding: 20px;
+            margin: 20px 0;
+        }
+        h2 {
+            color: #58a6ff;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        .error {
+            color: #f85149;
+            background-color: #490202;
+            padding: 10px;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        .success {
+            color: #3fb950;
+            background-color: #033a16;
+            padding: 10px;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>🔍 Aperçu du README</h1>
+    
+    <div class="container">
+        <h2>📊 My Github Stats</h2>
+        <p align="center">
+            <br/>
+            <a href="https://github.com/LawOff/github-readme-stats">
+                <img alt="LawOff's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LawOff&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" height="192px"/>
+            </a>
+            <a href="https://github.com/LawOff/github-readme-stats">
+                <img alt="LawOff's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LawOff&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF" height="192px"/>
+            </a>
+            <br/>
+        </p>
+    </div>
+
+    <div class="container">
+        <h2>🔥 Streak Stats</h2>
+        <p align="center">
+            <img alt="LawOff's streak" src="https://github-readme-streak-stats.demolab.com?user=LawOff&theme=react&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+        </p>
+    </div>
+
+    <div class="container">
+        <h2>📈 Contribution Graph</h2>
+        <p align="center">
+            <img alt="LawOff's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LawOff&theme=react-dark&bg_color=0d1117&hide_border=true&color=00D9FF&line=00D9FF&point=FFFFFF" />
+        </p>
+    </div>
+
+    <div class="container">
+        <h2>🐍 Contribution Snake</h2>
+        <p align="center">
+            <img src="https://raw.githubusercontent.com/LawOff/LawOff/output/github-contribution-grid-snake.svg" alt="snake game" onerror="this.parentElement.innerHTML='<div class=\'error\'>⚠️ Le snake game nécessite que le workflow GitHub Actions soit exécuté après le push. L\'image sera générée automatiquement.</div>'"/>
+        </p>
+        <p class="error">⚠️ Note: Le snake game nécessite que le workflow GitHub Actions soit exécuté après le push sur GitHub.</p>
+    </div>
+
+    <div class="container">
+        <h2>✅ Vérification des URLs</h2>
+        <div id="status"></div>
+    </div>
+
+    <script>
+        const urls = [
+            'https://github-readme-stats.vercel.app/api?username=LawOff&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF',
+            'https://github-readme-streak-stats.demolab.com?user=LawOff&theme=react&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF',
+            'https://github-readme-activity-graph.vercel.app/graph?username=LawOff&theme=react-dark&bg_color=0d1117&hide_border=true&color=00D9FF&line=00D9FF&point=FFFFFF'
+        ];
+
+        const statusDiv = document.getElementById('status');
+        
+        urls.forEach((url, index) => {
+            const img = new Image();
+            const serviceName = ['Stats GitHub', 'Streak Stats', 'Contribution Graph'][index];
+            
+            img.onload = () => {
+                statusDiv.innerHTML += `<div class="success">✅ ${serviceName}: URL fonctionne</div>`;
+            };
+            
+            img.onerror = () => {
+                statusDiv.innerHTML += `<div class="error">❌ ${serviceName}: URL ne fonctionne pas</div>`;
+            };
+            
+            img.src = url;
+        });
+    </script>
+</body>
+</html>
+
