@@ -25,5 +25,5 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LawOff/LawOff/output/github-contribution-grid-snake.svg" alt="snake game"/>
+  <img src="https://raw.githubusercontent.com/LawOff/LawOff/output/github-contribution-grid-snake-dark.svg" alt="snake game"/>
 </p>
