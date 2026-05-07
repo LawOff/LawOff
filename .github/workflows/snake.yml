@@ -1,0 +1,55 @@
+name: Generate contribution snake
+
+on:
+  schedule: [{ cron: "0 7 * * *" }]
+  workflow_dispatch:
+  push:
+    paths: [".github/workflows/snake.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snake-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (full history)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            github-snake.svg
+            github-snake-dark.svg?palette=github-dark
+
+      - name: Configure git
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config pull.rebase true
+
+      - name: Commit
+        run: |
+          git add -A
+          git commit -m "chore: update snake" || echo "no changes"
+
+      - name: Rebase on remote main
+        run: |
+          CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+          if [ "$CURRENT_BRANCH" != "main" ]; then
+            git checkout main
+          fi
+          git fetch origin main
+          git pull --rebase origin main
+
+      - name: Push
+        run: |
+          git push origin HEAD:main

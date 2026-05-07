@@ -77,7 +77,11 @@
     <div class="container">
         <h2>🐍 Contribution Snake</h2>
         <p align="center">
-            <img src="https://raw.githubusercontent.com/LawOff/LawOff/output/github-contribution-grid-snake-dark.svg" alt="snake game" onerror="this.parentElement.innerHTML='<div class=\'error\'>⚠️ Le snake game nécessite que le workflow GitHub Actions soit exécuté après le push. L\'image sera générée automatiquement.</div>'"/>
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LawOff/LawOff/main/github-snake-dark.svg" />
+                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LawOff/LawOff/main/github-snake.svg" />
+                <img src="https://raw.githubusercontent.com/LawOff/LawOff/main/github-snake.svg" alt="github-snake" onerror="this.parentElement.innerHTML='<div class=\'error\'>⚠️ Le snake game nécessite que le workflow GitHub Actions soit exécuté après le push. L\'image sera générée automatiquement.</div>'"/>
+            </picture>
         </p>
         <p class="error">⚠️ Note: Le snake game nécessite que le workflow GitHub Actions soit exécuté après le push sur GitHub.</p>
     </div>
